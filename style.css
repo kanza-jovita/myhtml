@@ -1,0 +1,21 @@
+
+  nav {
+    background: skyblue;
+    padding: 20px;
+  }
+  a {
+    font-family: sans-serif;
+    margin-left: 10px;
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    margin-top: none;
+  }
+  body {
+    background: pink;
+  }
+  p {
+    color: black;
+  }
+  
+  
